@@ -3,7 +3,7 @@
 Lycéen, aspirant pentester Purple Team.  
 Objectif : préparer et performer au CTF (20–22/10/2025) et au Bug Bounty pédagogique (24–31/10/2025).
 
-## Plan Jour 1
+## Plan 
 - 0–3 min : Intention 
 - 3–10 min : Inscription Hack Ton Lycée (@monlycee.net) — screenshot
 - 10–20 min : Créer repo GitHub `Aaron-hacktonlycee`
