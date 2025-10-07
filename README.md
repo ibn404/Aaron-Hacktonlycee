@@ -18,7 +18,3 @@ Objectif : préparer et performer au CTF (20–22/10/2025) et au Bug Bounty péd
 - [ ] `bug_report_template.md` ajouté
 - [ ] Screenshots sauvegardés dans `evidence/`
 
-## Contact
-Email pro : ibn40004@gmail.com
-Email scolaire : ton-mail@monlycee.net
-GitHub : https://github.com/ibn404/Aaron-hacktonlycee
