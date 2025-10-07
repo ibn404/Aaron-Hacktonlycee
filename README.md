@@ -11,7 +11,7 @@ Objectif : préparer et performer au CTF (20–22/10/2025) et au Bug Bounty péd
 - 40–60 min : Ajouter `bug_report_template.md`
 - 60–75 min : Screenshots + sauvegarde
 
-## Checklist Jour 1 ✅
+## Checklist Debut ✅
 - [ ] Inscription faite (screenshot)
 - [ ] Repo créé (lien)
 - [ ] README mis à jour
